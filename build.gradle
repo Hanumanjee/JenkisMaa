@@ -34,9 +34,9 @@ dependencies {
 }
 test {
     useTestNG() {
-     //   useDefaultListeners = true
-      //  suites 'src/test/resources/testng.xml'
+    useDefaultListeners = true
+        suites 'src/test/resources/testng.xml'
 
     }
-   // reports.html.enabled=true
+    reports.html.enabled=flase
 }
