@@ -31,13 +31,12 @@ dependencies {
     // ===================for excel reader=================
 
 
-
-
-
 }
 test {
     useTestNG() {
-        useDefaultListeners = true
+     //   useDefaultListeners = true
+      //  suites 'src/test/resources/testng.xml'
+
     }
-    reports.html.enabled=false
+   // reports.html.enabled=true
 }
