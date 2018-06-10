@@ -4,7 +4,7 @@
 
     <test name="order">
         <classes>
-            <class name="alltest.MyPersonalTest" /
+            <class name="alltest.MyPersonalTest"</class>
 
         </classes>
     </test>
