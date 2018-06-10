@@ -4,11 +4,14 @@
 
     <test name="order">
         <classes>
-            <class name="alltest.MyPersonalTest"</class>
 
+            <class name="alltest.MyPersonalTest" ></class>
+           
         </classes>
     </test>
 
-
-
 </suite>
+
+
+
+
