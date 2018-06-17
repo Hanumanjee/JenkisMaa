@@ -4,11 +4,7 @@
 
     <test name="jenkins">
         <classes>
-            <class name="jenkinstest.JenkinsTest" ></class>
-
-
-
-
+            <class name="jenkinstest.JenkinsTest" ></class
 
         </classes>
     </test>
