@@ -35,7 +35,7 @@ dependencies {
 test {     
  useTestNG() {      
       useDefaultListeners = true      
-      suites 'src/test/resources/jenkinstestng.xml'    
+      suites 'src/test/resources/testng.xml'    
     
 }
     //turn off Gradle's HTML report to avoid replacing the
