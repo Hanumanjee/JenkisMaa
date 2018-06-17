@@ -6,6 +6,7 @@
         <classes>
             <class name="jenkinstest.JenkinsTest" ></class>
 
+
         </classes>
     </test>
 

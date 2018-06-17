@@ -7,5 +7,6 @@ public class JenkinsTest {
     @Test
     public void testone(){
         System.out.println("Test One");
+        System.out.println("For jenkins");
     }
 }

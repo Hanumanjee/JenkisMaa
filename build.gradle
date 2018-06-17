@@ -39,6 +39,7 @@ test {
         //required to turn on TestNG reports
         useDefaultListeners = true
         suites 'src/test/resources/jenkinstestng.xml'
+        //
 
 
     }
