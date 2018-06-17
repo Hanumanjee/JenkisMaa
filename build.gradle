@@ -35,10 +35,10 @@ dependencies {
 test {
     useTestNG() {
         //set TestNG output dir
-        outputDirectory = file("$project.buildDir//testngOutput")
+      //  outputDirectory = file("$project.buildDir//testngOutput")
         //required to turn on TestNG reports
         useDefaultListeners = true
-        suites 'src/test/resources/testng.xml'
+        suites 'src/test/resources/jenkinstestng.xml'
 
 
     }
