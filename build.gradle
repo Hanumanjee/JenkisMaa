@@ -39,7 +39,7 @@ test {
       //  outputDirectory = file("$project.buildDir//testngOutput")
         //required to turn on TestNG reports
         useDefaultListeners = true
-        suites 'src/test/resources/jenkinstestng.xml'
+        suites 'src/test/resources/testng.xml'
         //
 
    }
