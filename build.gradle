@@ -38,7 +38,10 @@ test {
  useTestNG() 
 {      
       useDefaultListeners = true      
-     suites 'src/test/resources/testng.xml'    
+     suites 'src/test/resources/testng.xml' 
+     
+     ignoreFailures true                                
+        
     
 }
 
